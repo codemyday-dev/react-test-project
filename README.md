@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://codemyday.com/mytask/
 
+## Here we go with the solution to the test task :)
+ 
+Unfortunately, I didn’t manage to do everything as I initially started doing it using the library that you are currently using on the site (codemirror + react-codemirror2), but I didn’t have enough time to figure it out and customize it properly. So, I went on with mui.
+
+I decided that it would be better to place all operations (+, -, /, *, etc.) in separate tags and not typre them separately.
+Then, parse the array from autocomplete, save the data and perform calculations.
+Naturally, the UI and validation also need to be improved.
+
 ## Available Scripts
 
 In the project directory, you can run:
